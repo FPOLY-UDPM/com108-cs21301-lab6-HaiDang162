@@ -8,7 +8,6 @@
 //  Input: Nhập vào từ bàn phím 1 mảng các số nguyên. Mảng gồm n phần tử
 //  Output: Xuất ra màn hình kết quả mảng đã sắp xếp
 
-// VIẾT CODE Ở ĐÂY
 #include <stdio.h>
 int main()
 {
@@ -39,7 +38,5 @@ int main()
     {
         printf("%d ", arr[i]);
     }
-    printf("\n");
-
     return 0;
 }

@@ -35,7 +35,6 @@ int main()
         printf("Khong co so nao chia het cho 3 trong mang\n");
         return 0;
     }
-
     tb = tong / count;
     printf("Trung binh cong cac so chia het cho 3 trong mang la: %.2f", tb);
     return 0;
